@@ -1,0 +1,4 @@
+imp links
+https://www.kaggle.com/c/titanic
+https://www.kaggle.com/competitions/titanic/data?select=test.csv
+https://www.kaggle.com/code/alexisbcook/titanic-tutorial
